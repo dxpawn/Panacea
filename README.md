@@ -5,7 +5,16 @@ write mathematical explanation in latex
 
 
 if anyone is using this, NO IT DOESNT WORK RN, THIS IS NOT READY
+
 currently the output is constrained to 224x224 😭
+
+why did i make this: for fun and to stop the AI slop bs
+
+also, note that some models may have been trained for defense against PGD attacks like this, so it wouldn't matter to them
+
+however it also comes at a cost, that model loses accuracy on general tasks -> still a win for me
+
+
 
 <h1 align="center">🛡️ Panacea</h1>
 
