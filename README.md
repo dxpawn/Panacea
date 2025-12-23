@@ -157,7 +157,7 @@ This tool is designed for **legitimate defensive purposes**:
 
 ❌ **Inappropriate Uses**:
 - Applying to images you don't own
-- Maliciously poisoning public datasets
+- Maliciously poisoning public datasets (I will find you and I will beat the shit out of you, personally)
 - Bypassing content moderation systems
 
 ## 🔗 References
@@ -170,4 +170,4 @@ This tool is designed for **legitimate defensive purposes**:
 
 ## 📄 License
 
-MIT License - Use responsibly.
+GNU GPLv3 - Use responsibly.
