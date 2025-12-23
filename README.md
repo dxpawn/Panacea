@@ -1,19 +1,24 @@
-note to self: add vae-based attack later
+# DISCLAIMER: THIS DOES NOT WORK RIGHT NOW, IT IS NOT READY
 
-write mathematical explanation in latex
+Current limitations:
+- Output constrained to 224x224
+- Is not effective against multimodal big boys like ChatGPT
+- Shows promising effect (increased noise) on weaker models
+- Needs to be more robust (fk you SD) and transferable (fk all of you image gen AIs)
 
+## note to self: 
+- add vae-based attack later
+- This must resist detoxification attempts, e.g.: https://github.com/huzpsb/DeTox/
+- This needs to work against screenshots and similar workarounds
+- write mathematical explanation in latex
+- add batch mode?
+- model too light
 
-
-if anyone is using this, **NO IT DOESNT WORK RN, THIS IS NOT READY**
-
-currently the output is constrained to 224x224 😭
-
-why did i make this: for fun and to stop the AI slop bs
+## why did i make this: for fun and to stop the AI slop bs
 
 also, note that some models may have been trained for defense against PGD attacks like this, so it wouldn't matter to them
 
 however it also comes at a cost, that model loses accuracy on general tasks -> still a win for me
-
 
 
 <h1 align="center">🛡️ Panacea</h1>
